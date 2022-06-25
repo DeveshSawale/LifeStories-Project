@@ -11,6 +11,12 @@ LifeStories is a platform where you can share your life stories and experiences.
 <li>Create a Post, Update the created post or Delete post,
 <li>Like the Posts created by other users.
 <li>Comment on the other user's posts.
+  
+# link :
+  The frontend and backend of the app is deployed, frontend is deployed using Netlify and the backend deployment is carried out using Heroku.
+  <br>
+  The link to application is here : 
+  <li><a href="https://lifestories-app.netlify.app">LifeStories</a>
 
 # A CRUD application : 
   
