@@ -19,9 +19,9 @@ LifeStories is a platform where you can share your life stories and experiences.
 # MERN stack :
   MERN stack is JavaScript stack used for easier and faster deployment of full stack web application.
   
-  M - MongoDB : A NoSQL database stores documents which consist of key value pairs.
-  E - Express : Helps creating backent while staying in JavaScript environment.
-  R - React : JavaScript framework which is used for the development of the frontend of the application. 
-  N - NodeJs: A runtime environment allows to create backend of the application using javaScript only. 
+  <li> M - MongoDB : A NoSQL database stores documents which consist of key value pairs.
+  <li> E - Express : Helps creating backent while staying in JavaScript environment.
+  <li> R - React : JavaScript framework which is used for the development of the frontend of the application. 
+  <li> N - NodeJs: A runtime environment allows to create backend of the application using javaScript only. 
     
 
